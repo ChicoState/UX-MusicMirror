@@ -6,7 +6,31 @@
 
 ## Methods
 
-!!! Describe research methods you used to discover new insights, which explains the purpose of each. Provide enough detail that someone would be able to faithfully reproduce your research. !!!
+!!! The research methods we utilized were competitive analysis, personas and scenarios, and heuristic analysis to discover new insights.
+
+The purpose of competitive analysis is to find the strengths and weaknesses of our competitors in the space of music transfer services. We gathered the main strengths and weaknesses along with the quality level, price of service, and the platforms of their application. 
+
+Our second research method was personas and scenarios to better understand our demographic and targeted audience. We described what the needs of certain users would be and formulated a background that represents real users. Our team then developed scenarios based on user needs. These insights created a focus on user-centered design in the scope of our application.
+
+We conducted a heuristic evaluation on one of our competitors to evaluate the principles of interaction design. Heuristic evaluation is valuable in the context of following best practices in design. As well as finding ways to improve user experience in our own design by doing better in certain heuristics compared to our competitors. The heuristic evaluation principles we used were Jacob Nielsen’s 10 usability heuristics.
+
+Nielsen 10 usability heuristics:
+- Visibility of system status
+- Match between system and real-world
+- User control and freedom
+- Consistency and standards
+- Error prevention
+- Recognition rather than recall
+- Flexibility and efficiency of use
+- Aesthetic and minimalist design
+- Help users recognize, diagnose, and recover from errors
+- Help and documentation
+
+For each heuristic, we gave a score(1-10), and a description. The score is based on how well the competitors follow the heuristics. The description provides the reasoning behind the score and possible recommendations for lower heuristic scores.
+
+Competitive analysis, personas and scenarios, and heuristic evaluations were valuable in identifying weaknesses with other competitors and identifying user needs. As well as providing useful insights into leveraging an improved design compared to our competitors.
+
+ !!!
 
 ## Findings
 
