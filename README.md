@@ -23,10 +23,15 @@
 
 **Executive Summary**
 
-* !!!In a bullet-list, provide a summary that highlights...!!!
-* !!!What you've done during this phase...!!!
-* !!!and what the significance of it is...!!!
-* !!!as an executive would understand.!!!
+* **Competitive Analysis** found the follwing weaknesses in our primary competitors:
+    * **dense and complex UI**
+    * Subscription based service
+* In creating **Personas and Scenarios** for the product, we found the following user needs:
+    * A **simple** and **easy to learn UI**
+    * Quick access to main features
+* **Heuristic Evaluation** showed similar results, with the following additions:
+    * Cohesive color palette
+    * Clearly labeled features
 
 [Full phase I report](phaseI/)
 
