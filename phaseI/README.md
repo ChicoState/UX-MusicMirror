@@ -2,8 +2,7 @@
 
 ## Introduction
 
-!!! Describe the general problem that the project is trying to solve !!!
-
+When people listen to music they like to create personalized playlists for different moods and different music. We believe that there should be software that can transfer all the songs from your playlists from one platform to another platform. By using our product Music Mirror a person can easily re-create the playlist they had on one streaming platform and transfer it to another seamlessly.
 ## Methods
 
  The research methods we utilized were competitive analysis, personas and scenarios, and heuristic analysis to discover new insights.
@@ -34,7 +33,11 @@ Nielsen 10 usability heuristics:
 
 ## Findings
 
-!!! For each research method, detail each of the findings point-by-point to clarify new discoveries of users' needs !!!
+In our first research method of competitive analysis, we started by looking at our competitors' products and evaluating their features and the UX. From our competitive analysis, we found that most of our competitors used similar pricing models as well as using their products as well. For example all 3 of our competitors which were song Shift, sound dizz, and tune my music all use a subscription-based model and limited songs to transfer for free. Through our research, we found that users would only be as inclined to use our competitors' products if the UI was simple and there was an option for free conversion from platform to platform. 
+
+Our second research method of persona and scenarios went in-depth on the demographic of people using our product Music Mirror. In our research, we found that our demographic finds most competitors' products hard to use and very tedious to convert their playlists from platform to platform. From young adults to older adults who may not be as tech-savvy, we found that by simplifying the process a wider range of demographics would use our product 
+
+Our third research method was our heuristic evaluations. Through these 10 evaluations of our competitors, we found that most of our competitors lacked in areas pertaining to the overall aesthetic of the UI as well and they found it difficult to use the product by signing up for their streaming services as well as logging into our own service. We also found that the buttons and colors of our competitors' services proved to be confusing from time to time due to all the conflicting colors and functions around the site. 
 
 ## Conclusions
 
