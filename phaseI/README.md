@@ -41,7 +41,7 @@ Our third research method was our heuristic evaluations. Through these 10 evalua
 
 ## Conclusions
 
-!!! Discoveries derived from the methods and their findings. Interpret how the findings translate into new insights into UX design recommendations. Describe those recommendations and how they should shape future work. In this section, include the new design recommendations based on the latest user insights. !!!
+Overall, the points of frustration for users of the competitor's products as well as the needs of our potential users have two things in common: simplicity and accessibility. The primary goal of this product is to simplify a multitude of different operations pertaining to playlists, meaning keeping the interface and functions of the product free of clutter and confusion is the highest priority in terms of UX design. After that, the next most important goal is to keep the amount of technical knowledge necessary to operate the product as low as possible, as the problem we aim to solve is more present for those that are less technologically apt.
 
 ## Caveats
 
