@@ -7,9 +7,9 @@ When people listen to music they like to create personalized playlists for diffe
 
  The research methods we utilized were competitive analysis, personas and scenarios, and heuristic analysis to discover new insights.
 
- The purpose of competitive analysis is to find the strengths and weaknesses of our competitors in the space of music transfer services. We gathered the main strengths and weaknesses along with the quality level, price of service, and the platforms of their application. 
+ The purpose of competitive analysis is to find the strengths and weaknesses of our competitors in the space of music transfer services. To find the competitors we wanted to analyze, we googled music transfer services and picked the top 3.  We gathered the main strengths and weaknesses along with the quality level, price of service, and the platforms of their application. 
 
- Our second research method was personas and scenarios to better understand our demographic and targeted audience. We described what the needs of certain users would be and formulated a background that represents real users. Our team then developed scenarios based on user needs. These insights created a focus on user-centered design in the scope of our application.
+ Our second research method was personas and scenarios to understand our demographic and targeted audience better. We described what the needs of certain users would be and formulated a background that represents real users. Our team then developed scenarios based on user needs. These insights created a focus on user-centered design in the scope of our application.
 
  We conducted a heuristic evaluation on one of our competitors to evaluate the principles of interaction design. Heuristic evaluation is valuable in the context of following best practices in design. As well as finding ways to improve user experience in our own design by doing better in certain heuristics compared to our competitors. The heuristic evaluation principles we used were Jacob Nielsen’s 10 usability heuristics.
 
@@ -25,7 +25,7 @@ Nielsen 10 usability heuristics:
 - Help users recognize, diagnose, and recover from errors
 - Help and documentation
 
- For each heuristic, we gave a score(1-10), and a description. The score is based on how well the competitors follow the heuristics. The description provides the reasoning behind the score and possible recommendations for lower heuristic scores.
+ For each heuristic, we gave a score(1-10), and a description. The score is based on how well the competitors follow the heuristics. The description provides the reasoning behind the score and possible recommendations for improving the heuristic scores.
 
  Competitive analysis, personas and scenarios, and heuristic evaluations were valuable in identifying weaknesses with other competitors and identifying user needs. As well as providing useful insights into leveraging an improved design compared to our competitors.
 
@@ -45,4 +45,11 @@ Our third research method was our heuristic evaluations. Through these 10 evalua
 
 ## Caveats
 
-!!! Considerations and/or limitations to the methods you chose and the findings/conclusions drawn from them. In other words, give warnings if there are limitations to your research such as not being able to find enough users of a particular demographic, the methods not being able to expose certain information, assumptions you made, etc. !!!
+ The limitations have to be considered to assess the validity of our research. This is our team's first experience with these research methods in a UX setting. As we did our best to make meaningful insights, there could be potential oversights and or misguided findings. 
+
+ Our team had to depend on personas and scenarios in a made-up setting to determine user needs. Therefore, we had no actual user data for our conclusions. Much of our data was based on the assumptions of our users with no actual user data to back up our findings. We did our best to predict user behavior but ultimately they were composed of assumptions.
+
+ When finding competitors we did not have data to support the top competitors. We relied on a Google search assuming that the most popular music transfer services would result at the top. As that seems to be the trend with Google searches, there could be some ambiguity in our search for popular music transfer services.
+
+ During the heuristic evaluation, the main caveat would be that some of the features of the competitor's service were premium features. Due to limited resources, our team was not able to evaluate the competitor in a detailed manner.
+
