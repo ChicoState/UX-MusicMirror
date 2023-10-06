@@ -1,12 +1,10 @@
-!!! NOTE: Delete all parts of this file surrounded by three exclamation marks (including the exclamation marks themselves) and replace them with the appropriate content -- they are only instructions and shouldn't be in your report!!!
-
 # Music Mirror
 
-!!!Brief introduction to the project and the problem it is intended to solve!!!
+In the world of music streaming, there are a number of different platforms and services, all with different catalogues of available tracks, albums, and artists. This can make it excessively difficult to share music with others when there is a mismatch in which platforms they use. MusicMirror aims to solve this issue by providing a single app on a single page through which users can share, save, and transfer playlists with ease.
 
 ## UX Team Members
 
-* **[Jhet Cabigas](https://usabilityengineering.github.io/ux-portfolio-cjhet02/)** - !!!List of Person A's primary contributions!!!
+* **[Jhet Cabigas](https://usabilityengineering.github.io/ux-portfolio-cjhet02/)** - Introduction, Executive Summary, Phase 1 conclusions.
 * **[Person B](!!!URL to Person B's published portfolio!!!)** - !!!List of Person B's primary contributions!!!
 * **[Person C](!!!URL to Person C's published portfolio!!!)** - !!!List of Person C's primary contributions!!!
 
