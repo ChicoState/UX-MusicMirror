@@ -12,7 +12,7 @@ In the world of music streaming, there are a number of different platforms and s
  
 !!!For the following, add a PDF of your artifact to the repository and replace the # with the file name!!!
 
-* [Personas and Scenarios](personas/)
+* [Personas and Scenarios](personas/Personas-scenarios.pdf)
 * [Sketches and Diagrams](sketches/)
 * [Wireframes](wireframes/)
 * [Prototype](#)
