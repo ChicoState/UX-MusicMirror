@@ -14,7 +14,7 @@ In the world of music streaming, there are a number of different platforms and s
 
 * [Personas and Scenarios](personas/)
 * [Sketches and Diagrams](sketches/)
-* [Wireframes](Music-Mirror.pdf)
+* [Wireframes](wireframes/)
 * [Prototype](#)
 
 # Phase I: Analyzing Users, Competitors, and Initial Designs
@@ -22,7 +22,7 @@ In the world of music streaming, there are a number of different platforms and s
 **Executive Summary**
 
 * **Competitive Analysis** found the follwing weaknesses in our primary competitors:
-    * **dense and complex UI**
+    * **Dense and complex UI**
     * Subscription based service
 * In creating **Personas and Scenarios** for the product, we found the following user needs:
     * A **simple** and **easy to learn UI**
