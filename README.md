@@ -14,7 +14,7 @@ In the world of music streaming, there are a number of different platforms and s
 
 * [Personas and Scenarios](personas/)
 * [Sketches and Diagrams](sketches/)
-* [Wireframes](wireframes/)
+* [Wireframes](Music-Mirror.pdf)
 * [Prototype](#)
 
 # Phase I: Analyzing Users, Competitors, and Initial Designs
