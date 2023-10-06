@@ -5,7 +5,7 @@ In the world of music streaming, there are a number of different platforms and s
 ## UX Team Members
 
 * **[Jhet Cabigas](https://usabilityengineering.github.io/ux-portfolio-cjhet02/)** - Introduction, Executive Summary, Phase 1 conclusions.
-* **[Person B](!!!URL to Person B's published portfolio!!!)** - !!!List of Person B's primary contributions!!!
+* **[Jay Pham](https://github.com/UsabilityEngineering/ux-portfolio-Jpham2525)** - Findings & research methods & introduction phase 1.
 * **[Person C](!!!URL to Person C's published portfolio!!!)** - !!!List of Person C's primary contributions!!!
 
 # User-Centered Design Artifacts
