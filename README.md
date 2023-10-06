@@ -1,12 +1,12 @@
 # Music Mirror
 
-In the world of music streaming, there are a number of different platforms and services, all with different catalogues of available tracks, albums, and artists. This can make it excessively difficult to share music with others when there is a mismatch in which platforms they use. MusicMirror aims to solve this issue by providing a single app on a single page through which users can share, save, and transfer playlists with ease.
+In the world of music streaming, there are a number of different platforms and services, all with different catalogs of available tracks, albums, and artists. This can make it excessively difficult to share music with others when there is a mismatch in which platforms they use. MusicMirror aims to solve this issue by providing a single app on a single page through which users can share, save, and transfer playlists with ease.
 
 ## UX Team Members
 
 * **[Jhet Cabigas](https://usabilityengineering.github.io/ux-portfolio-cjhet02/)** - Introduction, Executive Summary, Phase 1 conclusions.
 * **[Jay Pham](https://github.com/UsabilityEngineering/ux-portfolio-Jpham2525)** - Findings & research methods & introduction phase 1.
-* **[Person C](!!!URL to Person C's published portfolio!!!)** - !!!List of Person C's primary contributions!!!
+* **[Alex Ayala](https://github.com/UsabilityEngineering/ux-portfolio-aayala7896)** - Phase 1: Methods & Caveats
 
 # User-Centered Design Artifacts
  
@@ -21,9 +21,9 @@ In the world of music streaming, there are a number of different platforms and s
 
 **Executive Summary**
 
-* **Competitive Analysis** found the follwing weaknesses in our primary competitors:
+* **Competitive Analysis** found the following weaknesses in our primary competitors:
     * **Dense and complex UI**
-    * Subscription based service
+    * Subscription-based service
 * In creating **Personas and Scenarios** for the product, we found the following user needs:
     * A **simple** and **easy to learn UI**
     * Quick access to main features
