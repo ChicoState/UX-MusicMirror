@@ -2,7 +2,7 @@
 
 ## Introduction
 
-!!! Describe the general problem that the project is trying to solve and the focus of this interval of work !!!
+Music Mirror aims to streamline the process of moving playlists from one platform to another. In order to to this, it is important that the user's interactions with the app are more efficient and effective than the alternative. Thus, this phase of our project was spent digging into the the layout and gathering feedback on the user experience.
 
 ## Methods
 
@@ -24,6 +24,9 @@ The purpose of the questions is to see how we can broaden our user demographic a
 ## Conclusions
 
 !!! Discoveries derived from the methods and their findings. Interpret how the findings translate into new insights into UX design recommendations. Describe those recommendations and how they should shape future work. In this section, include the new design recommendations based on the latest user insights. !!!
+Based on the reports gathered from the cognitive walkthrough, we found that users often were unsure if their actions actually resulted in the successful creation of a playlist, as well as confusion regarding the behavior of the sign-in buttons. Taking into account these new insights, we focused our attention on providing proper UI feedback to the user whenever they carried out actions.
+
+The informal feedback gathered from the product demo gave the team more direction on where to move next, as certain proposed features and functions were more popular and sought after than others.
 
 ## Caveats
 
