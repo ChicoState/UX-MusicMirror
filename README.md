@@ -37,10 +37,17 @@ In the world of music streaming, there are a number of different platforms and s
 
 **Executive Summary**
 
-* !!!In a bullet-list, provide a summary that highlights...!!!
-* !!!What you've done during this phase...!!!
-* !!!and what the significance of it is...!!!
-* !!!as an executive would understand.!!!
+* **Informal Feedback** was collected through a **product demo**, highlighting a few **desired features**:
+    * **Error Handling**
+    * YouTube Integration
+    * Shareable Links
+    * **UI Enhancements**:
+        * Search refining
+        * Song previews
+* 3 UX researchers conducted a **cognitive walkthrough** of our product, revealing the following **insights**:
+    * Confusing sign-in process
+    * Not enough feedback for successful actions
+    * Easily understood layout and process
 
 [Full phase II report](phaseII/)
 
