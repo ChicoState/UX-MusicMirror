@@ -23,7 +23,6 @@ The purpose of the questions is to see how we can broaden our user demographic a
 
 ## Conclusions
 
-!!! Discoveries derived from the methods and their findings. Interpret how the findings translate into new insights into UX design recommendations. Describe those recommendations and how they should shape future work. In this section, include the new design recommendations based on the latest user insights. !!!
 Based on the reports gathered from the cognitive walkthrough, we found that users often were unsure if their actions actually resulted in the successful creation of a playlist, as well as confusion regarding the behavior of the sign-in buttons. Taking into account these new insights, we focused our attention on providing proper UI feedback to the user whenever they carried out actions.
 
 The informal feedback gathered from the product demo gave the team more direction on where to move next, as certain proposed features and functions were more popular and sought after than others.
