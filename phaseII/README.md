@@ -10,7 +10,7 @@ The Research methods we utilized were cognitive walkthroughs and informal feedba
 
 The purpose of a cognitive research method is to examine the learnability and perception of our wireframe design through users. Our UX team gathered three amateur UX researchers to walk through accomplishing a task based on scenarios.  At each step, we asked the UX researcher “Will the user know what to do at this step?” and “If the user does the right thing, will the user know that they did the right thing and is making progress toward the goal?”. The insights provided by the UX researchers could then be analyzed to find any steps of our design that need improvement. 
 
-After a demonstration of our design from the software engineers we had them ask questions to receive feedback on Music Mirror.  Questions are as follows:
+For informal feedback, the software engineers asked questions to receive feedback on Music Mirror.  Questions are as follows:
 * What services would you use on this platform?
 * What functions of the final product would you use the most?
 
