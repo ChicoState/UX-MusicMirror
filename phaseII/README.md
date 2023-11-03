@@ -13,6 +13,7 @@ The purpose of a cognitive research method is to examine the learnability and pe
 After a demonstration of our design from the software engineers we had them ask questions to receive feedback on Music Mirror.  Questions are as follows:
 * What services would you use on this platform?
 * What functions of the final product would you use the most?
+
 The purpose of the questions is to see how we can broaden our user demographic and cater our product to our users.
 
 
