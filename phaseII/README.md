@@ -19,7 +19,9 @@ The purpose of the questions is to see how we can broaden our user demographic a
 
 ## Findings
 
-!!! For each research method, detail each of the findings point-by-point to clarify new discoveries of users' needs !!!
+In our findings from our first research method of cognitive walkthroughs, we found that users often were confused about what would happen after the user logged in and used the services for the first time. through the cognitive walkthrough we learned that without a visual cue or conformation, the user would be confused about if the log-in attempt was successful as well as if the tabs that corresponded with the streaming services showed conformation of songs being transferred from one service to the next. Other insights provided by the UX researchers also led us to find that users would often be confused about signing into different services since there was no official sign-in page wireframe. These findings have led us to revise and add in additional pages that give the user a visual cue that their actions have been properly completed. 
+
+For our informal feedback, We worked with the software engineers to ask important questions about the users and their overall use of the platform as a whole. The most important questions we found had to deal with what types of platforms would the users transfer music to and from as well as what functions were the most important and which were not. These two questions gave us the insight to analyze our main demographics, as well as the importance of making our platform simple enough to where most users would be able to use it without lots of prior knowledge. 
 
 ## Conclusions
 
