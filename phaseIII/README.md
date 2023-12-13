@@ -18,6 +18,10 @@ Finally in the third task of the procedure participants were asked to look at th
 
 At the end of the tasks, the participants were asked a few supplemental questions in a debrief about how they felt about the usability of the platform overall as well as features that they liked and if they did not like any of the features. The participants were also asked if the overall platform performed its essential feature through the use of the minimum viable product. 
 
+Finally, we gathered informal feedback from different software developer teams about their preferences for Music Mirror. The questions are as follows:
+* How is the overall look and feel of the app?
+* Are 4 alternative search results enough?
+
 ## Findings
 
 !!! For each research method, detail each of the findings point-by-point to clarify new discoveries of users' needs !!!
