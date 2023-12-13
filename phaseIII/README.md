@@ -27,7 +27,9 @@ During our usability tests, we recorded data ranging from different variables th
 
 In the second set of data that was collected which was based on the completion rate of each task, we saw a change in trend from our first set of data. From this graph, the data shows that generally, all participants completed the first two tasks without any problems. Tasks 1 & 2 had 100% completion rates but, where we saw the biggest change was in task 3. From the data, we found that from task 2 to task 3 participants had a difficult time completing the tasks. Our graph shows that out of all the participants, only 1 participant was able to complete the task With task 3 having a 16.67% completion rate. 
 
-![[ratings.png]]
+![ratings.png]
+
+![successvsfailure.png]
 
 ## Conclusions
 
