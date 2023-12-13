@@ -6,9 +6,9 @@
 
 ## Methods
 
-!!! Describe research methods you used to discover new insights, and explains the purpose of each. Provide enough detail that someone can faithfully reproduce your research. !!!
+In phase III, we focused on user testing and user insights of our product. Users were provided with an interactable prototype to provide functionality feedback. The structure of user testing was maintained by a task-based protocol.
 
-In phase 3 of our procedure, we gathered user data from our peers which ranged in a demographic of students. Our participants were first asked for background information about their experience with music streaming platforms to establish baseline data about the participants and their experience and expectations about using the platform. The participants were asked to use "thinking out loud" as well as were asked to rate tasks from 1-5 with 1 being easy and 5 being difficult. 
+Our participants were first asked for background information about their experience with music streaming platforms to establish baseline data about the participants and their experience and expectations about using the platform. The participants were asked to use "thinking out loud" as well as were asked to rate tasks from 1-5 with 1 being easy and 5 being difficult. 
 
 After the initial background questions, the participants were faced with the first task which was to sign into their streaming platform from our initial music mirror page. From there they were also asked to sign into the secondary streaming platform that they would like to transfer their songs to. After this initial task was completed the participants were then asked to note the order of actions as well as voice concerns or errors they came across. After recording the data of their first task they were asked to score the test based on the level of difficulty from 1 being very easy to 5 being very difficult. 
 
