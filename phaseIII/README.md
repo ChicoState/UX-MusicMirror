@@ -2,7 +2,7 @@
 
 ## Introduction
 
-!!! Describe the general problem that the project is trying to solve and the focus of this interval of work !!!
+In phase III, the Music Mirror UX team worked rigorously to develop an interactable prototype for user testing. Our team obtained IRB approval to research subjects on improving our product design. To guide our research, we developed a task protocol based on the features of Music Mirror. We continue to solve the problem of identifying user needs through the evaluation of our prototype and feedback.
 
 ## Methods
 
