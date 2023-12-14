@@ -4,9 +4,9 @@ In the world of music streaming, there are a number of different platforms and s
 
 ## UX Team Members
 
-* **[Jhet Cabigas](https://usabilityengineering.github.io/ux-portfolio-cjhet02/)** - Introduction, Executive Summary, Phase 1 conclusions.
-* **[Jay Pham](https://github.com/UsabilityEngineering/ux-portfolio-Jpham2525)** - Findings & research methods & introduction phase 1.
-* **[Alex Ayala](https://github.com/UsabilityEngineering/ux-portfolio-aayala7896)** - Phase 1: Methods & Caveats
+* **[Jhet Cabigas](https://usabilityengineering.github.io/ux-portfolio-cjhet02/)** - Phase 1-3: Introduction, Executive Summary, conclusions.
+* **[Jay Pham](https://github.com/UsabilityEngineering/ux-portfolio-Jpham2525)** - Phase 1-3: Findings & research methods & introduction.
+* **[Alex Ayala](https://github.com/UsabilityEngineering/ux-portfolio-aayala7896)** - Phase 1-3: Methods & Caveats
 
 # User-Centered Design Artifacts
  
@@ -54,10 +54,18 @@ In the world of music streaming, there are a number of different platforms and s
 # Phase III: Prototypes and User Testing
 
 **Executive Summary**
-
-* !!!In a bullet-list, provide a summary that highlights...!!!
-* !!!What you've done during this phase...!!!
-* !!!and what the significance of it is...!!!
-* !!!as an executive would understand.!!!
-
+* **Informal Feedback** was once again collected during a **product demo**, yielding some **design suggestions**:
+  * UI
+    * **Increase contrast** on tab labels
+    * Give **clearer indication of interactability** for song edit feature
+    * The left-to-right flow **is not obvious**
+  * Features
+    * **User-defined limit** for search results
+    * **Simultaneous updates** on multiple platforms
+    * **Save to Music Mirror** feature
+* The UX team conducted **Usability Tests** with **external users**, gaining design insights:
+  * The login features are well-placed
+  * The text input is **hard to find**
+  * Users **rarely noticed mistakes** in the playlist
+ 
 [Full phase III report](phaseIII/)
