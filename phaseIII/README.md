@@ -39,7 +39,7 @@ In the second set of data that was collected which was based on the completion r
 
 ## Conclusions
 
-!!! Discoveries derived from the methods and their findings. Interpret how the findings translate into new insights into UX design recommendations. Describe those recommendations and how they should shape future work. In this section, include the new design recommendations based on the latest user insights. !!!
+Based on these findings we can comfortably finalize the design of the login feature, as it was quickly identified and used correctly by all participants. However, the widespread failure to notice the text input informs us that we should choose a different method for platform selection, such as the tabs used in a previous iteration. Another conclusion that can be made is that users need more help in noticing mistakes in the song results. While these mistakes can also be attributed to poor task wording or negligence on the user's part, a feature that informs the user of the result's relevance could be helpful. For instance, each search result could have a percentage displayed based on how likely the result is to match the original search. This could also help bring more attention to the search refinement feature, which turned out to be not very noticeable according to the informal feedback collected.
 
 ## Caveats
 One caveat of our research is that our teams’ participants were exclusively from our UX class. Consequently, this may not represent the music mirror demographic and some users can be overlooked.
