@@ -6,7 +6,7 @@ In phase III, the Music Mirror UX team worked rigorously to develop an interacta
 
 ## Methods
 
-In phase III, we focused on user testing and user insights of our product. Users were provided with an [interactable prototype](https://xd.adobe.com/view/5711804a-787f-48bf-bb50-08a0bc952959-0242/) ([ pdf ](MMPrototype.pdf)) to provide functionality feedback. The structure of user testing was maintained by a task-based [protocol](Taskprotocol.pdf).
+For our methods, we focused on user testing and user insights of our product. Users were provided with an [interactable prototype](https://xd.adobe.com/view/5711804a-787f-48bf-bb50-08a0bc952959-0242/) ([ pdf ](MMPrototype.pdf)) to provide functionality feedback. The structure of user testing was maintained by a task-based [protocol](Taskprotocol.pdf).
 
 Our participants were first asked for background information about their experience with music streaming platforms to establish baseline data about the participants and their experience and expectations about using the platform. The participants were asked to use "thinking out loud" as well as were asked to rate tasks from 1-5 with 1 being easy and 5 being difficult. 
 
