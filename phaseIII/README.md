@@ -24,7 +24,6 @@ Finally, we gathered informal feedback from different software developer teams a
 
 ## Findings
 
-!!! For each research method, detail each of the findings point-by-point to clarify new discoveries of users' needs !!!
 
 During our usability tests, we recorded data ranging from different variables that dealt with the amount of errors that occurred during each task as well as ratings given from each task based on how well features worked. Using the data we collected during the study we then turned the data into graphs that showed trends that accrued during the study. In the first graph, we compiled all the ratings of each initial task from each participant. Our findings showed that in the first task, people generally felt that completing task 1 was straightforward and there were no responses that conveyed that it was not possible to complete. Furthermore, in the first graph, we found that task 2 followed the same trend of task one with zero failures to complete the task as well as voting that it was very easy. In the third task, our results changed and through the data, it showed that most participants rated the task easy with a larger portion feeling that it was more difficult than the previous 2 tasks.
 
@@ -35,7 +34,7 @@ In the second set of data that was collected which was based on the completion r
 
 ![successvsfailures](successvsfailure.png)
 
-
+In gathering feedback from the software engineers, there were several insights. They described that there is uncertainty in the ability to click on a song to view more details. In addition, the design flow from saved playlists on the left to new playlists on the right lacked clarity. Many also expressed that the quantity of search results is not an issue, however, an artificial limit can cause difficulty when finding unpopular songs. 
 
 ## Conclusions
 
